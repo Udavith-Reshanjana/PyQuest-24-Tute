@@ -1,10 +1,3 @@
-num = 4
-print (num) 
-print (num := 12 ) 
-num += 5 
-print(num)
-num //= 2 
-print(num) 
-print( 7 + 16 % 8 ) 
-num %= 3
-print(num) 
+x = 10
+y =  50
+print ( x ** 2 >= 100 and y < 100)

@@ -1,6 +1,12 @@
-x = 10
-y = 50
+# a
 
-# print(x**2)
+# a = 5
+# b = a ++ 2
+# print( b )
 
-print(x**2 >= 100 and y < 100)
+# b
+
+# test = 10
+# print(type(test))
+# test = "testbook"
+# print(type(test))
