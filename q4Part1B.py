@@ -7,9 +7,9 @@
 
 # part 1 b)
 
-# start = 25
-# end = 50
-# print("Prime numbers between", start, "and", end, "are:")
+start = 25
+end = 50
+print("Prime numbers between", start, "and", end, "are:")
 
 for num in range(start, end + 1):
     # all prime numbers are greater than 1
