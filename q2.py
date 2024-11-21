@@ -11,5 +11,5 @@
 # val = 1+ (3 - 4)  * 2 ** 10 // 6
 # print(val)                  #Output7
 
-# print(type(5/2))
-# print(type(5 //2))
+print(type(5/2))
+print(type(5 //2))

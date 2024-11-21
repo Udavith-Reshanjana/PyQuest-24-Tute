@@ -6,7 +6,7 @@
 
 # b
 
-# test = 10
-# print(type(test))
-# test = "testbook"
-# print(type(test))
+test = 10
+print(type(test))
+test = "testbook"
+print(type(test))
