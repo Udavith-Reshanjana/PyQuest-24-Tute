@@ -5,6 +5,6 @@ while ( x <= 8 ):
  
 print("\n\n")
 
-for x in range(4,9,2):
-    print(x * 10)
+for x in range(4, 9, 2):
+	print(x * 10)
 

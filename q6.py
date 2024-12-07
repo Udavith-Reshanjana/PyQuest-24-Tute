@@ -2,7 +2,7 @@
 numbers = [18, 26, 52, 15, 10]
 
 # Step 2: Add Items to the List
-numbers.append(30)
+numbers.append(30) 
 numbers.append(40)
 numbers.append(60)
 
